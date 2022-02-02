@@ -12,11 +12,11 @@
     "@aragon/os": "^4.4.0"
   },
   "devDependencies": {
-    "@aragon/buidler-aragon": "^0.2.0",
-    "@nomiclabs/buidler": "^1.3.0",
-    "@nomiclabs/buidler-etherscan": "^1.3.0",
-    "@nomiclabs/buidler-truffle5": "^1.3.0",
-    "@nomiclabs/buidler-web3": "^1.3.0",
-    "web3": "^1.2.0"
+    "@aragon/buidler-aragon": "^0.2.12",
+    "@nomiclabs/buidler": "^1.4.8",
+    "@nomiclabs/buidler-etherscan": "^2.1.0",
+    "@nomiclabs/buidler-truffle5": "^1.3.4",
+    "@nomiclabs/buidler-web3": "^1.3.4",
+    "web3": "^1.7.0"
   }
 }
